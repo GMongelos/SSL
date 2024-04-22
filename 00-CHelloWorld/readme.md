@@ -26,4 +26,4 @@ En nuestro directorio se debería haber creado un ejecutable .exe llamado "hello
 Hello, World!
 ```
 
-Para concuir el proósito de este TP, versionamos el output del programa ejecutando el comando `./hello.exe > output.txt`
+Para concuir el propósito de este TP, versionamos el output del programa en el archivo "output.txt" ejecutando el comando `./hello.exe > output.txt`
